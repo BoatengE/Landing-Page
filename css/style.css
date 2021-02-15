@@ -1,0 +1,30 @@
+body{
+    background-image: url("../images/chelsea.jpg");
+    
+}
+
+.topbar{
+    margin-left: 10%;
+    
+}
+
+
+.topbar :hover{
+
+    background-color: rgb(255,217,0);
+    /* color: rgb(255, 255, 255); */
+    overflow: hidden;
+    margin-left: 30px;
+    transition-duration: 1000ms;
+
+}
+
+.topbar a{
+    margin: 0 1% 0 0;
+    float: left;
+    color: #FFF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+}
